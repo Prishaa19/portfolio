@@ -1,0 +1,54 @@
+
+    h1{
+color:#ffffff;
+      }
+
+      a{
+           color:powderblue;
+          
+      }
+    
+   
+     h2{
+color:plum;
+        }
+
+     h3{
+color: turquoise;
+     }
+
+     p{
+color: palevioletred;
+text-align:left;
+
+     }
+
+    
+     
+.header{
+display: flex;
+justify-content: center;
+background-color:paleturquoise;
+}
+
+body{
+     background-color:snow;
+}
+
+
+/*
+a:link{
+     color:black;
+ }
+a:visited{
+     color:pink;
+ }
+ */
+
+ .Game{
+      color : thistle;
+     display : flex;
+     flex-direction: column;
+     justify-content :space-evenly;
+     text-align: center;
+ }
